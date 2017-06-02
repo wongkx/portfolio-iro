@@ -12,8 +12,7 @@ A friend of mine mentioned Bloc and it seems just right - the tuition seems to f
 
 ### The Beginning
 
-To be honest, before I even enrolled, I found the information lacking or inconsistent. One of the Bloc page suggests 25 hrs per week if I choose a medium pace, while another Bloc page says 20 hrs, but I was later told by a person that 15 hours should suffice. But, look at my progress bar, it seems I might need to spend 30 hours per week if I want to complete everything by end of this year. And the staff was not always as responsive, or that I'd get a different staff so I'd have to repeat my questions.
-
+To be honest, before I even enrolled, I found the information lacking or inconsistent. One of the Bloc page suggests 25 hrs per week if I choose a medium pace, while another Bloc page says 20 hrs, but I was later told by a staff that 15 hours should suffice. But, look at my progress bar, it seems I might need to spend 30 hours per week if I want to complete everything by end of this year. The staff was not always as responsive, and sometimes I'd get a different staff so I'd have to repeat my questions.
 
 The first month was overwhelming and frustrating. Before I begin even learning anything at all, there seems to be tons of stuff flying my way. It might be better to have a syllabus that tells me what's going on. When I get an email invite from Code School, I had no idea it was an invite from Bloc. And then there's a bunch of stuff I was introduced to, while the most important one - Git console - has no instruction on where/how to get (I see today they added it). So, at the beginning, I was actually using VI editor to code in the Git shell, and when my mentor opened and checked my code, it looks like a tornado had ripped through it. And then later it broke and I'd had to use Git for Windows and a Powershell to launch the server, which seemed like a hack. I almost lost hope at that point :)
 

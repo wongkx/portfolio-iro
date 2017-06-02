@@ -5,9 +5,9 @@ title: My Challenges in Learning Software Development
 
 As someone coming from a Network/Security/Data Warehouse background, learning software development as a beginner was relatively intimitating. There are many terminologies and concepts to understand and, facing a myriad of mainstream languages with different purposes in each one, I was worried a year's time would not be sufficient for me to even start as a junior developer in any company.
 
-Maybe my age also adds to the worries. I will be 30 years old in three days with close to zero professional development experience. I don't know what that translates to in regards to today's competetiveness in the development industry. Am I too late to start? Or should I just stick with security, which I am not as passionate about as I was three years ago (perhaps I shouldn't have picked firewall administration to start my career).
+Maybe my age also adds to the worries. I will be 30 years old in three days with close to zero professional development experience. I don't know what that translates to in regards to today's competitiveness in the development industry. Am I too late to start? Or should I just stick with security, which I am not as passionate about as I was three years ago (perhaps I shouldn't have picked firewall administration to start my career).
 
-So hopefully this is the right call. It has been about six months since I started my journey with Bloc. So far I can definitely say that my confidence has increased, but still doubtful if applying for a regular software development position, since I have only learned the front-end courses but not the back-end courses which seem to take about 80% of the entire track. 
+So hopefully this is the right call. It has been about six months since I started my journey with Bloc. So far I can definitely say that my confidence has increased, but still doubtful if applying for a software development position, since I have only learned the front-end courses but not the back-end courses which seem to take about 80% of the entire track. 
 
 ### Git
 
@@ -21,7 +21,7 @@ hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ```
 
-Some of the Git errors like this one are not as simple as Googling for an answer and quickly find a universal solution that is guaranteed to work, especially if multiple mistakes were made at the same time. I recalled this was when I started using Node.js/NPM, and it was not set up properly (missing dependencies, install in wrong directoy, misconfiguration in JSON file, etc). I'd also unknowingly check in/out branch in different folders, such as /bloc-jams-angular/ vs. /bloc-jams-angular/app/. If I find a suggestion and apply it incorrectly, I might not be able to undo the Git command, revert to previous state, and open more worms.
+Some of the Git errors like this one are not as simple as Googling for an answer and quickly find a universal solution that is guaranteed to work, especially if multiple mistakes were made at the same time. I recalled this was when I started using Node.js/NPM, and it was not set up properly (missing dependencies, install in wrong directory, misconfiguration in JSON file, etc). I'd also unknowingly check in/out branch in different folders, such as /bloc-jams-angular/ vs. /bloc-jams-angular/app/. If I find a suggestion and apply it incorrectly, I might not be able to undo the Git command and revert to previous state, but open more worms instead.
 
 ### Angular.js
 
