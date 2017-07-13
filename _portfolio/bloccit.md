@@ -2,7 +2,7 @@
 layout: post
 title: Bloccit
 feature-img: "img/bloccit.jpg"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
+thumbnail-path: "img/bloccit.jpg"
 short-description: Bloccit is awesome!
 
 ---
