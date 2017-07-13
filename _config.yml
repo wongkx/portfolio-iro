@@ -1,13 +1,13 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://kevinwong.press" # the base hostname & protocol for your site
+url: "http://wongkx.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Kevin Wong
   avatar: avatar.png
-  gravatar: # Email MD5 hash
+  gravatar: Digest::MD5::hexdigest(kevinwong6175@gmail.com).downcase
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
