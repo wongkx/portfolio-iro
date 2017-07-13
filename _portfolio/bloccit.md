@@ -2,7 +2,7 @@
 layout: post
 title: Bloccit
 feature-img: "img/bloccit.jpg"
-thumbnail-path: "img/bloccit.jpg"
+thumbnail-path: "http://res.cloudinary.com/wongkx/image/upload/v1499960611/bloccit_qblvso.jpg"
 short-description: Bloccit is awesome!
 
 ---
