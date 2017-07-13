@@ -6,8 +6,8 @@ url: "http://wongkx.github.io" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Kevin Wong
-  avatar: avatar.png
-  gravatar: Digest::MD5::hexdigest(kevinwong6175@gmail.com).downcase
+  avatar: #
+  gravatar: 345c98b9da5c86d7b2fb79bce2873f29
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
