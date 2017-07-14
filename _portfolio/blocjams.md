@@ -4,7 +4,6 @@ title: BlocJams
 feature-img: "img/bloc_jams_bg.jpg"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
 short-description: BlocJams is awesome!
-url: https://github.com/wongkx/BlocJams
 
 ---
 ## Summary
@@ -14,7 +13,7 @@ BlocJams is a simple application that allows the user to choose from a list of a
 
 ## Explanation
 
-The user will not only be able to listen to any music, but also control the music, such as skip forward and volume control. For this project, the objective is to build this application with Javascript, then jQuery, and finally, Angular.js.
+The user will not only be able to listen to any music, but also control the music, such as skip forward/backward and volume control. For this project, the objective is to build this application with Javascript, then refactor with jQuery, and finally, refactor with Angular.js.
 
 ## Problems
 

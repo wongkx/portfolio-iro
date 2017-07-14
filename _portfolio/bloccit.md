@@ -13,11 +13,11 @@ Bloccit is a forum posting site where users can create, read, update, and delete
 
 ## Explanation
 
-The user can choose to create posts under the appropriate topics, which make the posts easier to read and organize.
+The user can choose to create posts under the appropriate topics, which make the posts easier to read and organize. The user can also sign up, sign in, and sign out securely.
 
 ## Challenges
 
-Overall, I enjoy learning a lot of unfamiliar concepts, such as symbols, routes, gemfiles, creating unique Rspec tests for each CRUD operation, TDD development style, and using the console to test with live dataset.
+Overall, I enjoy learning a lot of unfamiliar concepts, such as symbols, routes, gemfiles, creating unique Rspec tests for each CRUD operation, TDD development style, nesting classes, one-to-one/one-to-many relationship, and using the console to test with live dataset.
 
 However, some of the syntax can be difficult to get used to, especially since Ruby on Rails values "Convention over Configuration," which is not something I was immediately getting used to, because in other languages, everything has to be stated specifically, and instantiate and treated as an object. 
 
@@ -25,7 +25,7 @@ However, some of the syntax can be difficult to get used to, especially since Ru
 
 Here are some examples. The name of the controller should be plural, whereas model name should be singular.
 
-To point to a URL path, you'd use <#Action>_path (e.g. edit_path). In some cases, you don't even need the "_path" keyword. For example, either one below should work fine:
+To point to a URL path, you'd use <#Action>_path (e.g. edit_path). In some cases, you don't even need the "_path" keyword. For example, either one below should work fine. (They also demostrate the power of Embedded Ruby HTML, by embedding logic from the backend database, with minimal markup codes):
 ```
 <% @questions.each do |question| %>
     <%= link_to question.title, question %>
@@ -47,7 +47,7 @@ I also learned to incorporate "let" and "before" for the Rspec tests. For exampl
 ```
 let(:my_user) { User.create!(name: "BlocHead", email: "blochead@bloc.io")}
 ```
-this will create the instance my_user in every test whether it is called or not, while "before" allows you to use it only when needed.
+this will create the instance my_user in every test whether it is called or not, while "before" allows you to use it only when the test calls for it.
     
 
 ## Conclusion
