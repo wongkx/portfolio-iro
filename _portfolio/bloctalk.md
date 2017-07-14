@@ -92,3 +92,5 @@ For more info, please check out:
 ## Conclusion
 
 I was pretty frustrated at the beginning with the lack of instruction. It would've been nice if someone had provided a high-level architecture of the applications, such as what controllers or factories are required, and what functions would they be responsible for. I just couldn't put the above pieces together at first, and had to chase down many examples, many of which are incongruent with the style that Bloc has intended. Nothing like steering a small fishing boat in a raging storm. But I was pleased at the end to have created a working, messaging application!
+
+Github repository: <https://github.com/wongkx/bloc-frontend-project>

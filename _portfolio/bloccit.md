@@ -53,3 +53,5 @@ this will create the instance my_user in every test whether it is called or not,
 ## Conclusion
 
 I enjoy coding in Ruby on Rails a lot. It is very powerful and I understand why sometimes it is built the way it is - one of them is to type less and focus more on the important stuff!
+
+Github repository: <https://github.com/wongkx/bloccit>

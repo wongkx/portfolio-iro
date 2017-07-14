@@ -4,6 +4,7 @@ title: BlocJams
 feature-img: "img/bloc_jams_bg.jpg"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
 short-description: BlocJams is awesome!
+url: https://github.com/wongkx/BlocJams
 
 ---
 ## Summary
@@ -84,6 +85,7 @@ angular.directive('seekbar', function(){
 
 After refactoring with jQuery and Angular.js, the user is still able to control the music player just like with plain ol' JavaScript before.
 
+
 ## Conclusion
 
 In the beginning of the project, which is my very first application, I never thought it was possible to replicate something like a Spotify application without collaborating with a dozen of developers.
@@ -91,3 +93,6 @@ In the beginning of the project, which is my very first application, I never tho
 One of the bonus challenges was to enable the ability to create user accounts, add/remove songs, etc. However, I have not done anything with CRUD operations or integrate with any sort of database. If I have more time to make improvement, I'd take advantage of Firebase to at least allow users to create their own account, since I also reworked this into Angular style.
 
 I definitely learned a lot about JavaScript, jQuery, and Angular with this project. There are many ways to skin a cat, but it is important to learn the basics first, like how Javascript works with HTML, or how the Angular MVC works. I also learned a few CSS concepts such as float, clear, border, padding, and margin. 
+
+Github repository (jQuery): <https://github.com/wongkx/BlocJams>
+Github repository (Angular.js): <https://github.com/wongkx/bloc-jams-angular>
